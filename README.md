@@ -1,4 +1,4 @@
-#####  LangGraph Mistral Agent with Web UI
+###  LangGraph Mistral Agent with Web UI
 
 This project demonstrates a modular AI agent using **LangGraph** and **Ollama's `mistral` model**. The agent processes user input and either solves math expressions, summarizes text, or provides a fallback response. A **Gradio UI** is provided for a simple web interface.
 
